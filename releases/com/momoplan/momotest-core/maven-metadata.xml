@@ -3,14 +3,15 @@
   <groupId>com.momoplan</groupId>
   <artifactId>momotest-core</artifactId>
   <versioning>
-    <release>0.0.31</release>
+    <release>0.0.32</release>
     <versions>
       <version>0.0.27</version>
       <version>0.0.28</version>
       <version>0.0.29</version>
       <version>0.0.30</version>
       <version>0.0.31</version>
+      <version>0.0.32</version>
     </versions>
-    <lastUpdated>20120319093804</lastUpdated>
+    <lastUpdated>20120319100317</lastUpdated>
   </versioning>
 </metadata>
